@@ -1,0 +1,8 @@
+Finished the following videos
+1.Analysis of Algorithms
+2.Order of Growth
+3. Asymptotic Notations
+4. Big O Notation
+5. Big Theta Notation
+6. Big Omega Notation
+7. Analysis of Common Loops
