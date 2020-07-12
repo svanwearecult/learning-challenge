@@ -8,3 +8,4 @@ Finished the following videos
 7. Analysis of Common Loops
 8. Analysis of Recursion
 9. Space Complexity
+10. Mathematics
